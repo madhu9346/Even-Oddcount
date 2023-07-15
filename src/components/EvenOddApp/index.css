@@ -1,0 +1,42 @@
+.con {
+  background-color: white;
+  height: 100vh;
+  padding: 150px;
+}
+.con1 {
+  background-image: linear-gradient(to top, #64beee, #ff6e7f);
+  padding: 100px;
+  background-size: cover;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  color: black;
+  font-weight: bold;
+  font-size: 60px;
+  margin: 20px;
+}
+.btn {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 10px;
+}
+.para1 {
+  color: grey;
+  font-weight: bold;
+  margin: 8px;
+}
+
+.para {
+  color: rgb(19, 29, 41);
+  font-weight: bold;
+  font-size: 25px;
+  margin: 10px;
+}
